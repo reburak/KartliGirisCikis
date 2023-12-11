@@ -15,9 +15,9 @@ String HexId = "";
 String DecId = "";
 
 String EnterType = "20";  // Giris: 10 - Çıkış: 20
-const char* ssid = "IsTech";
-const char* password = "Tech2o23*";
-const char* host = "ptsapi.isteknoloji.com.tr";
+const char* ssid = "wifiName";
+const char* password = "pass*";
+const char* host = "***.com";
 const int httpsPort = 443;
 
 WiFiClient wClient;
